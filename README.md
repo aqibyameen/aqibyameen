@@ -1,13 +1,5 @@
 <div align="center">
 
-![Aqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqibyameen&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&icon_color=00f5d4&text_color=e2e8f0)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqibyameen&layout=compact&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&text_color=e2e8f0)
-
- <br><br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aqibyameen&theme=synthwave&hide_border=true&background=0f172a&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4)
-![Profile Views](https://komarev.com/ghpvc/?username=aqibyameen&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge)
 
 ![Aqib Yameen](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f5d4&height=220&section=header&text=Aqib%20Yameen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
@@ -656,15 +648,12 @@ infrastructure ready...
 
 ## `> github.stats()`
 
-![Aqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqibyameen&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&icon_color=00f5d4&text_color=e2e8f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqibyameen&layout=compact&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&text_color=e2e8f0)
-
- <br><br>
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aqibyameen&theme=synthwave&hide_border=true&background=0f172a&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4)
-![Profile Views](https://komarev.com/ghpvc/?username=aqibyameen&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge)
 
+![Profile Views](https://komarev.com/ghpvc/?username=aqibyameen&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge)
+ </div>
 <div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
