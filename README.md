@@ -646,8 +646,7 @@ infrastructure ready...
 </div>
 
 ## `> github.stats()`
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aqibyameen&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&icon_color=00f5d4&text_color=e2e8f0" width="49%" alt="Aqib's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibyameen&layout=compact&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&text_color=e2e8f0" width="42%" alt="Top Languages" /> <br/><br/> <img src="https://streak-stats.demolab.com?user=aqibyameen&theme=synthwave&hide_border=true&background=0f172a&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="60%" alt="GitHub Streak" /> <br/><br/> <img src="https://komarev.com/ghpvc/?username=aqibyameen&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge" alt="Profile Views" /> </div>
-
+<div align="center">  <br/><br/> <img src="https://streak-stats.demolab.com?user=aqibyameen&theme=synthwave&hide_border=true&background=0f172a&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="60%" alt="GitHub Streak" /> <br/><br/> <img src="https://komarev.com/ghpvc/?username=aqibyameen&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge" alt="Profile Views" /> </div>
 <div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -658,15 +657,6 @@ infrastructure ready...
 
 <div align="center">
 
-```text
-        🐍 CONTRIBUTION ACTIVITY
-
-  ░░██░░░████░░██░░██████░░░██░░
-  ░████████████████████████████░
-       🐍━━━━━━━━━━━━━━━━━━━→
-
-     Eating my contributions...
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqibyameen/aqibyameen/output/github-contribution-grid-snake-dark.svg" />
@@ -777,13 +767,24 @@ Also deepening: **Linux**, **Bash scripting**, **Infrastructure as Code**, **Dep
 
 ## `> connect --with me`
 
+
 <div align="center">
 
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=00f5d4" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00f5d4" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&amp;logo=gmail&amp;logoColor=00f5d4" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&amp;logo=vercel&amp;logoColor=00f5d4" /></a>
-<a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter%2FX-0f172a?style=for-the-badge&amp;logo=x&amp;logoColor=00f5d4" /></a>
+<a href="https://github.com/aqibyameen">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00f5d4" />
+</a>
+
+<a href="https://www.linkedin.com/in/aqib-yamin-a82a94202/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00f5d4" />
+</a>
+
+<a href="mailto:aqibyameen644@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00f5d4" />
+</a>
+
+<a href="https://aqibyamin.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=00f5d4" />
+</a>
 
 </div>
 
