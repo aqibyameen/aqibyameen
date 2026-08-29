@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Aqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqibyameen&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&icon_color=00f5d4&text_color=e2e8f0)
-
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqibyameen&layout=compact&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&text_color=e2e8f0)
 
  <br><br>
