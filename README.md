@@ -824,6 +824,7 @@ Also deepening: **Linux**, **Bash scripting**, **Infrastructure as Code**, **Dep
 
 <div align="center">
 
+
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -836,7 +837,7 @@ while (alive) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
+</div>
 **Thanks for visiting my profile 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e293b,100:0f172a&amp;height=120&amp;section=footer" width="100%"/>
