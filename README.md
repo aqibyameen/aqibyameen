@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aqib Yamin](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f5d4&height=200&section=header)
+![Aqib Yameen](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f5d4&height=220&section=header&text=Aqib%20Yameen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%2F+Next.js+Developer;Backend+Engineer+(Node.js+%2F+Spring+Boot);Cloud+%26+DevOps+Enthusiast;Docker+Explorer;Kubernetes+Learner;AWS+Explorer;AI+Application+Builder" alt="Typing SVG" />
