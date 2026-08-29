@@ -1,6 +1,9 @@
 <div align="center">
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aqibyameen&theme=react-dark&bg_color=0f172a&color=00f5d4&line=00f5d4&point=e2e8f0&hide_border=true)
+
+
 ![Aqib Yameen](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f5d4&height=220&section=header&text=Aqib%20Yameen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <a href="https://git.io/typing-svg">
