@@ -53,6 +53,20 @@ Building. Learning. Shipping.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
+
+## `> github.stats()`
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aqibyameen&theme=synthwave&hide_border=true&background=0f172a&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aqibyameen&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge)
+ </div>
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 ## `🐍 contribution_snake`
 
 <div align="center">
@@ -710,19 +724,7 @@ infrastructure ready...
 
 </div>
 
-## `> github.stats()`
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aqibyameen&theme=synthwave&hide_border=true&background=0f172a&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4)
-
-![Profile Views](https://komarev.com/ghpvc/?username=aqibyameen&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge)
- </div>
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
 
 ## `🐍 contribution_snake`
 
