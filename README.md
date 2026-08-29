@@ -1,8 +1,4 @@
 <div align="center">
-
-
-
-
 ![Aqib Yameen](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f5d4&height=220&section=header&text=Aqib%20Yameen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <a href="https://git.io/typing-svg">
@@ -31,28 +27,7 @@
 
 <br/>
 
-```yaml
-$ whoami
-aqib-yameen
 
-$ role
-Full-Stack Developer
-
-$ focus
-Cloud • DevOps • AI • Distributed Systems
-
-$ currently_learning
-Docker • Kubernetes • AWS • Terraform • CI/CD
-
-$ status
-Building. Learning. Shipping.
-```
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
 
 ## `> github.stats()`
 
@@ -122,6 +97,30 @@ Building. Learning. Shipping.
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 
 </div>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+
+```yaml
+$ whoami
+aqib-yameen
+
+$ role
+Full-Stack Developer
+
+$ focus
+Cloud • DevOps • AI • Distributed Systems
+
+$ currently_learning
+Docker • Kubernetes • AWS • Terraform • CI/CD
+
+$ status
+Building. Learning. Shipping.
+```
 
 <div align="center">
 
