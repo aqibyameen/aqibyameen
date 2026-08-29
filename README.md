@@ -837,8 +837,8 @@ while (alive) {
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
 </div>
+
 **Thanks for visiting my profile 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e293b,100:0f172a&amp;height=120&amp;section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,100:0f172a&height=120&section=footer" width="100%"/>
