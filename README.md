@@ -645,16 +645,16 @@ infrastructure ready...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=00f5d4&amp;icon_color=00f5d4&amp;text_color=e2e8f0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=00f5d4&amp;text_color=e2e8f0" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aqibyameenE&amp;show_icons=true&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=00f5d4&amp;icon_color=00f5d4&amp;text_color=e2e8f0" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibyameen&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=00f5d4&amp;text_color=e2e8f0" width="42%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&amp;theme=synthwave&amp;hide_border=true&amp;background=0f172a&amp;stroke=00f5d4&amp;ring=00f5d4&amp;fire=00f5d4&amp;currStreakLabel=00f5d4" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aqibyameen&amp;theme=synthwave&amp;hide_border=true&amp;background=0f172a&amp;stroke=00f5d4&amp;ring=00f5d4&amp;fire=00f5d4&amp;currStreakLabel=00f5d4" width="60%" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;label=Profile%20Views&amp;color=00f5d4&amp;style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=aqibyameen&amp;label=Profile%20Views&amp;color=00f5d4&amp;style=for-the-badge" />
 
 </div>
 
@@ -679,9 +679,9 @@ infrastructure ready...
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqibyameen/aqibyameen/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqibyameen/aqibyameen/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aqibyameen/aqibyameen/output/github-contribution-grid-snake.svg" width="90%" />
 </picture>
 
 <sub>Generated automatically from my live contribution graph via GitHub Actions — updates daily.</sub>
@@ -698,7 +698,7 @@ infrastructure ready...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=react-dark&amp;bg_color=0f172a&amp;color=00f5d4&amp;line=00f5d4&amp;point=e2e8f0&amp;hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqibyameen&amp;theme=react-dark&amp;bg_color=0f172a&amp;color=00f5d4&amp;line=00f5d4&amp;point=e2e8f0&amp;hide_border=true" width="90%" />
 
 </div>
 
