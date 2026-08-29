@@ -179,48 +179,6 @@ My journey started with the fundamentals — **HTML, CSS, and JavaScript** — a
 
 </div>
 
-## `> tech_stack --grouped`
-
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-
-**AI / APIs**
-
-<img src="https://skillicons.dev/icons?i=openai" /> &nbsp;
-<img src="https://img.shields.io/badge/OpenRouter-0f172a?style=for-the-badge&amp;color=00f5d4&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudinary-0f172a?style=for-the-badge&amp;logo=cloudinary&amp;logoColor=00f5d4" />
-
-**DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,bash" />
-
-**Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,terraform" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
-
-</div>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
 ## `> development.timeline()`
 
 ```text
