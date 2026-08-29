@@ -1,24 +1,28 @@
-<div align="center"> 
-  <img src="https://capsulerender.vercel.app/apitype=waving&amp;color=0:0f172a,100:1e293b&amp;height=220&amp;section=header&amp;text=Aqib%20Yameen&amp;fontSize=52&amp;fontColor=00f5d4&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e293b&amp;height=220&amp;section=header&amp;text=Aqib%20Yameen&amp;fontSize=52&amp;fontColor=00f5d4&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Aqib%20Yameen&fontSize=52&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=00F5D4&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Full-Stack+Developer;React+%2F+Next.js+Developer;Backend+Engineer+(Node.js+%2F+Spring+Boot);Cloud+%26+DevOps+Enthusiast;Docker+Explorer;Kubernetes+Learner;AWS+Explorer;AI+Application+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%2F+Next.js+Developer;Backend+Engineer+(Node.js+%2F+Spring+Boot);Cloud+%26+DevOps+Enthusiast;Docker+Explorer;Kubernetes+Learner;AWS+Explorer;AI+Application+Builder" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/-Software%20Engineering%20%40%20UBIT-0f172a?style=for-the-badge&amp;labelColor=0f172a&amp;color=00f5d4" />
-<img src="https://img.shields.io/badge/-Karachi%2C%20Pakistan-0f172a?style=for-the-badge&amp;labelColor=0f172a&amp;color=00f5d4" />
 
 <br/><br/>
 
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=00f5d4" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00f5d4" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&amp;logo=gmail&amp;logoColor=00f5d4" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&amp;logo=vercel&amp;logoColor=00f5d4" /></a>
-<a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter%2FX-0f172a?style=for-the-badge&amp;logo=x&amp;logoColor=00f5d4" /></a>
+<a href="https://github.com/aqibyameen">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00f5d4" />
+</a>
+
+<a href="https://www.linkedin.com/in/aqib-yamin-a82a94202/">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00f5d4" />
+</a>
+
+<a href="mailto:aqibyameen644@gmail.com">
+<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00f5d4" />
+</a>
+
+<a href="https://aqibyamin.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=00f5d4" />
+</a>
 
 </div>
 
