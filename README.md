@@ -646,19 +646,34 @@ infrastructure ready...
 </div>
 
 ## `> github.stats()`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aqibyameenE&amp;show_icons=true&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=00f5d4&amp;icon_color=00f5d4&amp;text_color=e2e8f0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibyameen&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=00f5d4&amp;text_color=e2e8f0" width="42%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aqibyameen&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&icon_color=00f5d4&text_color=e2e8f0"
+    width="49%"
+    alt="Aqib's GitHub Stats"
+  />
 
-<br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibyameen&layout=compact&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&text_color=e2e8f0"
+    width="42%"
+    alt="Top Languages"
+  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aqibyameen&amp;theme=synthwave&amp;hide_border=true&amp;background=0f172a&amp;stroke=00f5d4&amp;ring=00f5d4&amp;fire=00f5d4&amp;currStreakLabel=00f5d4" width="60%" />
+  <br/><br/>
 
-<br/><br/>
+  <img
+    src="https://streak-stats.demolab.com?user=aqibyameen&theme=synthwave&hide_border=true&background=0f172a&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4"
+    width="60%"
+    alt="GitHub Streak"
+  />
 
-<img src="https://komarev.com/ghpvc/?username=aqibyameen&amp;label=Profile%20Views&amp;color=00f5d4&amp;style=for-the-badge" />
+  <br/><br/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=aqibyameen&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge"
+    alt="Profile Views"
+  />
 
 </div>
 
