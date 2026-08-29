@@ -1,7 +1,6 @@
 <div align="center">
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aqibyameen&theme=react-dark&bg_color=0f172a&color=00f5d4&line=00f5d4&point=e2e8f0&hide_border=true)
 
 
 ![Aqib Yameen](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f5d4&height=220&section=header&text=Aqib%20Yameen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
@@ -54,6 +53,26 @@ Building. Learning. Shipping.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
+## `🐍 contribution_snake`
+
+<div align="center">
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqibyameen/aqibyameen/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqibyameen/aqibyameen/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aqibyameen/aqibyameen/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
+
+<sub>Generated automatically from my live contribution graph via GitHub Actions — updates daily.</sub>
+
+</div>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ## `> about.me`
 
@@ -67,6 +86,48 @@ My journey started with the fundamentals — **HTML, CSS, and JavaScript** — a
 > exploring          : Docker • Kubernetes • AWS • Terraform • CI/CD
 > interests          : System Design • AI-Powered Applications • Cloud-Native Architecture
 ```
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## `> tech_stack --grouped`
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+**AI / APIs**
+
+<img src="https://skillicons.dev/icons?i=openai" /> &nbsp;
+<img src="https://img.shields.io/badge/OpenRouter-0f172a?style=for-the-badge&amp;color=00f5d4&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-0f172a?style=for-the-badge&amp;logo=cloudinary&amp;logoColor=00f5d4" />
+
+**DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,bash" />
+
+**Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+
+</div>
 
 <div align="center">
 
