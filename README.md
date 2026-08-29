@@ -87,26 +87,6 @@ Building. Learning. Shipping.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
-
-## `> about.me`
-
-I'm **Aqib Yameen**, a **Software Engineering student at the University of Karachi (UBIT)** and a full-stack developer who enjoys building modern web applications, backend systems, and AI-powered products — and who is actively expanding into cloud and DevOps engineering.
-
-My journey started with the fundamentals — **HTML, CSS, and JavaScript** — and grew into full-stack development with **React**, **Node.js**, and **Spring Boot**, backed by real database and API work. I'm now layering **cloud infrastructure, containers, orchestration, and automation** on top of that foundation.
-
-```text
-> primary_stack      : React • Next.js • Node.js • Spring Boot • TypeScript
-> databases          : PostgreSQL • MongoDB
-> exploring          : Docker • Kubernetes • AWS • Terraform • CI/CD
-> interests          : System Design • AI-Powered Applications • Cloud-Native Architecture
-```
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
 ## `> tech_stack --grouped`
 
 <div align="center">
@@ -148,6 +128,27 @@ My journey started with the fundamentals — **HTML, CSS, and JavaScript** — a
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
+
+
+## `> about.me`
+
+I'm **Aqib Yameen**, a **Software Engineering student at the University of Karachi (UBIT)** and a full-stack developer who enjoys building modern web applications, backend systems, and AI-powered products — and who is actively expanding into cloud and DevOps engineering.
+
+My journey started with the fundamentals — **HTML, CSS, and JavaScript** — and grew into full-stack development with **React**, **Node.js**, and **Spring Boot**, backed by real database and API work. I'm now layering **cloud infrastructure, containers, orchestration, and automation** on top of that foundation.
+
+```text
+> primary_stack      : React • Next.js • Node.js • Spring Boot • TypeScript
+> databases          : PostgreSQL • MongoDB
+> exploring          : Docker • Kubernetes • AWS • Terraform • CI/CD
+> interests          : System Design • AI-Powered Applications • Cloud-Native Architecture
+```
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
 
 ## `> quick_profile`
 
