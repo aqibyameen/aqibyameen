@@ -13,11 +13,11 @@
 
 <br/><br/>
 
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00f5d4" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00f5d4" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00f5d4" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=00f5d4" /></a>
-<a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter%2FX-0f172a?style=for-the-badge&logo=x&logoColor=00f5d4" /></a>
+<a href="https://github.com/aqibyameen"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00f5d4" /></a>
+<a href="https://www.linkedin.com/in/aqib-yamin-a82a94202/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00f5d4" /></a>
+<a href="mailto:aqibyameen644@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00f5d4" /></a>
+<a href="https://aqibyamin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=00f5d4" /></a>
+
 
 </div>
 
