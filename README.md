@@ -646,7 +646,6 @@ infrastructure ready...
 </div>
 
 ## `> github.stats()`
-<div align="center">
 
 ![Aqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqibyameen&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f172a&title_color=00f5d4&icon_color=00f5d4&text_color=e2e8f0)
 
@@ -656,8 +655,6 @@ infrastructure ready...
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aqibyameen&theme=synthwave&hide_border=true&background=0f172a&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4)
 ![Profile Views](https://komarev.com/ghpvc/?username=aqibyameen&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge)
-
-</div>
 
 <div align="center">
 
