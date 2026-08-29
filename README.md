@@ -685,7 +685,7 @@ infrastructure ready...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqibyameen&amp;theme=react-dark&amp;bg_color=0f172a&amp;color=00f5d4&amp;line=00f5d4&amp;point=e2e8f0&amp;hide_border=true" width="90%" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aqibyameen&theme=react-dark&bg_color=0f172a&color=00f5d4&line=00f5d4&point=e2e8f0&hide_border=true)
 
 </div>
 
